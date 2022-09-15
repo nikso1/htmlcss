@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+}
+li{
+    margin-left: 30px ;
+    color: blue;
+}
+td{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
